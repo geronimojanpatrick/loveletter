@@ -1,0 +1,63 @@
+* 
+{
+    margin:0;
+}
+
+.overall
+{
+    max-width:1000px;
+    margin: 0 auto 0 auto;
+}
+
+.header
+{
+    background-color:pink;
+    color:#8b66a7;
+    text-align:center;
+    font-family:monospace;
+    height:55px;
+    padding:25px;
+}
+
+.navig
+{
+    background-color:#ffef9a;
+    font-size:16pt;
+    font-family:monospace;
+    text-align: center;
+}
+
+.navig a
+{
+    text-decoration:none;
+    color:#82cfff;
+    margin-right:20px;
+}
+
+.navig a:hover
+{
+    color:#525252;
+    text-decoration:underline;
+}
+
+.content
+{
+    font-family: monospace;
+    font-size: 20px;
+    text-align:center;
+    color:#525252;
+    background-color:pink;
+    padding: 25px;
+}
+
+.footer
+{
+    background-color:#ffef9a;
+    color:#82cfff;
+    font-family: monospace;
+    font-size: 18px;
+    text-align:center;
+    height:60px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
